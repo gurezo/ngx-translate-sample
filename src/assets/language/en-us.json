@@ -1,0 +1,10 @@
+{
+  "common": {
+    "title": "common title",
+    "header": "common header"
+  },
+  "app page": {
+    "title": "app title",
+    "header": "app header"
+  }
+}
